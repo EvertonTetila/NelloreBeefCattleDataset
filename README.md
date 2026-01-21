@@ -1,6 +1,6 @@
 # NelloreBeefCattleDataset
 
-Feedlot Nellore Cattle Dataset.
+Feedlot Nellore Beef Cattle Dataset.
 
 <img width="2048" height="1384" alt="fig1" src="https://github.com/user-attachments/assets/b32c0c5e-be35-4e7f-8c7b-825e03646ba3" />
 
