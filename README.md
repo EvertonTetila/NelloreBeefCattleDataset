@@ -11,3 +11,9 @@ A field study was carried out at the Fazenda Campanário feedlot in Laguna Carap
 # Dataset download 
 
 Link: http://evertontetila.ws.ufgd.edu.br/Datasets/NelloreBeefCattleDataset.zip
+
+# Acknowledgements
+
+This dataset was created by the authors and should be cited as follows:
+
+Jianglong Yan, Everton C. Tetila, Liang Zhao, Rian C. Gonçalves, Letícia F. Castanheiro, Lucas P. Valem, Jayme G.A. Barbedo, Deep learning-based UAV framework for automated morphological and growth analysis of feedlot cattle, Computers and Electronics in Agriculture, Volume 245, 2026, 111559, ISSN 0168-1699, https://doi.org/10.1016/j.compag.2026.111559.
